@@ -9,6 +9,8 @@ BIG THANKS TO
 • AlyaaXzy 
 • BOTCAHX
 • Zeks
+• RielXzy
+• Lyn official
 • Penyedia Layanan API
 • Orang-orang yang Berdonasi
 `.trim(), watermark, 'Back', '.menu')
